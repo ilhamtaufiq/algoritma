@@ -10,7 +10,7 @@ Operator adalah sebuah simbol yang memberitahu kepada compiler untuk melakukan o
 •	Assignment Operators (operasi untuk mengisi variabel dengan sebuah nilai yg sesuai)
 •	Misc Operator (operator yang lainya)
  
-## Daftar operator Arithmatik:
+## Daftar operator Aritmatik:
 
 | Operator      | Deskripsi                                                 | Contoh     |
 | ------------- |:-------------------------------------------------------:  | ----------:|
