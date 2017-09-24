@@ -2,16 +2,16 @@
 # Tipe Data
 Data diklasifikasikan kedalam beberapa tipe data, seperti angka atau biasa disebut dengan integer. Perbedaan tipe data mewakili dengan cara yang berbeda di didalam sebuah program computer dan membutuhkan jumlah memory yang bervariasi untuk penyimpanannya.
 
-| Tipe Data     | Contoh        | Ukuran 		|
+| Tipe Data     | Contoh        | Ukuran 		 |
 | ------------- |:-------------:| ---------:|
-|Integer				|1, 2, 3, 65535	|1 â€“ 8 byte
-|Floating Point	|4.2,27.4,5.64	|4 â€“ 8 byte
-|Character			|A,B,C, $, #		|1 byte
-|String					|Hello world		|-
-|Boolean				|True False			|1 bit
+|Integer				    |1, 2, 3, 65535	|1 - 8 byte
+|Floating Point	|4.2,27.4,5.64	 |4 - 8 byte
+|Character			   |A,B,C, $, #		  |1 byte
+|String					    |Hello world		  |-
+|Boolean				    |True/False			  |1 bit
 
 
-Beberapa operasi bisa diterapkan hanya pada nilai tipe data yang sama. Seperti kita bias menghitung akar kuadarat dari akar bilangan bulat 4, tapi tidak dengan string â€œhello worldâ€
+Beberapa operasi bisa diterapkan hanya pada nilai tipe data yang sama. Seperti kita bias menghitung akar kuadarat dari akar bilangan bulat 4, tapi tidak dengan string "Hello World"
 Tipe data bermacam-macam dalam beberapa bahahsa. Jenis data utama dikelompokan berdasarkan hireraki, mereka adalah angka, karakter dan logika (True/False)
 Ada beberapa jenis tipe data pada angka seperti perbedaan angka bilangan bulat dan floating point.
  
@@ -26,7 +26,7 @@ Tipe data bilangan ini dapat mempengaruhi kalkulasi dalam sebuah program
 Setiap huruf, digit dan tanda baca adalah karakter, kemudan ada banyak karakter yang tak terlihat di layar seperti : spasi dan tab. Setiap karakter mempunyai pola bineri-nya masing-masing.
 Sebagian besar bahasa pemrograman memiliki tipe data yang disebut string, yang digunakan untuk nilai data yang terdiri dari urutan karakter yang diurutkan, seperti "hello world". String bias terdiri dari urutan karakter terlihat atau tak terlihat, dan karakter bisa diulang. Jumlah karakter dalam string disebut panjangnya, dan "hello world" memiliki panjang 11 - terdiri dari 10 huruf dan 1 spasi. Biasanya ada batasan panjang maksimal sebuah string. Ada juga yang namanya string kosong, yang tidak mengandung karakter - panjangnya 0.
 
-String bisa menjadi konstan atau variabel. Jika konstan, biasanya ditulis sebagai urutan karakter di dalam tanda kutip tunggal atau ganda, yaitu â€˜helloâ€™ atau â€œhelloâ€
+String bisa menjadi konstan atau variabel. Jika konstan, biasanya ditulis sebagai urutan karakter di dalam tanda kutip tunggal atau ganda, yaitu 'hello' atau "hello"
 
 ## c.	Konstanta dan Variabel
 Dalam sebuah program, nilai data dapat konstan atau bervariasi. Jika nilai variabel mereka dapat diubah oleh program dan pengguna. Saat sebuah program dijalankan, nilai data disimpan di memori saat sedang dikerjakan.
