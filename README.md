@@ -1,3 +1,4 @@
 # Algoritma I
 ## Pokok Bahasan
-[Tipe Data](https://github.com/ilhamtaufiq/algoritma/blob/master/tipa-data.md)
+1. [Tipe Data](https://github.com/ilhamtaufiq/algoritma/blob/master/tipe-data.md)
+2. [Operator](https://github.com/ilhamtaufiq/algoritma/blob/master/operator.md)
